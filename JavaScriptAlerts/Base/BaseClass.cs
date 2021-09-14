@@ -12,13 +12,14 @@ namespace JavaScriptAlerts.Base
         {
             driver = new ChromeDriver();
             driver.Url = "https://the-internet.herokuapp.com/javascript_alerts";
+            //Used to maximize the window
             driver.Manage().Window.Maximize();
 
         }
         [TearDown]
         public void TearDown()
         {
-
+            //Used to close the opened session
             driver.Quit();
         }
     }
