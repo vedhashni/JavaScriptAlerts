@@ -9,11 +9,13 @@ namespace JavaScriptAlerts
     public class JavaScriptAlertOperations
     {
         public static AlertElements alert1;
+        
+
         public void AlertMethod(IWebDriver driver)
         {
             alert1 = new AlertElements(driver);
             var expectedAlertText = "I am a JS Alert";
-
+            
             WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(1000));
             //Intializing the alert button 
             IWebElement alertbutton = alert1.alert;

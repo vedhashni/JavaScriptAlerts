@@ -1,0 +1,20 @@
+2021-09-16 22:26:03,574 INFO Configured
+2021-09-16 22:26:32,496 DEBUG navigating to url
+2021-09-16 22:26:32,497 INFO Exiting setup
+2021-09-16 22:26:32,645 INFO Window is maximized
+2021-09-16 22:28:06,395 INFO Configured
+2021-09-16 22:28:35,722 DEBUG navigating to url
+2021-09-16 22:28:35,722 INFO Exiting setup
+2021-09-16 22:28:35,850 INFO Window is maximized
+2021-09-16 22:28:36,441 INFO Configured
+2021-09-16 22:29:05,555 DEBUG navigating to url
+2021-09-16 22:29:05,555 INFO Exiting setup
+2021-09-16 22:29:05,707 INFO Window is maximized
+2021-09-16 22:29:06,207 INFO Configured
+2021-09-16 22:29:35,179 DEBUG navigating to url
+2021-09-16 22:29:35,179 INFO Exiting setup
+2021-09-16 22:29:35,312 INFO Window is maximized
+2021-09-16 22:29:35,815 INFO Configured
+2021-09-16 22:30:04,853 DEBUG navigating to url
+2021-09-16 22:30:04,854 INFO Exiting setup
+2021-09-16 22:30:04,980 INFO Window is maximized

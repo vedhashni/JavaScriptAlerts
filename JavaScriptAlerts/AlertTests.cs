@@ -5,10 +5,12 @@
 
 using NUnit.Framework;
 
+
 namespace JavaScriptAlerts
 {
     public class AlertTests:Base.BaseClass
-    {
+    { 
+
         //object is created for invoking the methods for alert opearations
         JavaScriptAlertOperations operations = new JavaScriptAlertOperations();
 
@@ -19,6 +21,7 @@ namespace JavaScriptAlerts
         public void TestAlertMethod()
         {
             operations.AlertMethod(driver);
+            
         }
 
         //Test method is created for confirm button
